@@ -55,3 +55,5 @@ def main():
         input("Press Enter to continue...")
         os.system("clear")
 
+if __name__ == "__main__":    
+   main()
